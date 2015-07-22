@@ -2,7 +2,3 @@
 greed_program
 
 
-
-
-四个项目
-
